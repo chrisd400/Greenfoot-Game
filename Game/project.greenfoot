@@ -1,0 +1,11 @@
+#Greenfoot properties
+#Tue Apr 21 18:28:01 EDT 2015
+class.Bullet.image=beeper.png
+class.GameWorld.image=bluerock.jpg
+class.GameWorld.superclass=greenfoot.World
+project.charset=UTF-8
+version=2.7.0
+class.Player.superclass=greenfoot.Actor
+world.lastInstantiated=GameWorld
+class.Player.image=turtle.png
+class.Bullet.superclass=greenfoot.Actor
